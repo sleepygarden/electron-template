@@ -4,7 +4,7 @@
   "description": "update me!",
   "author": "Mike Cornell",
   "license": "MIT",
-  "repository" : "git@git.spies.ws:mcornell/electron-template.git",
+  "repository": "git@git.spies.ws:mcornell/electron-template.git",
   "main": "src/main.js",
   "scripts": {
     "start": "electron src/main.js",
@@ -17,7 +17,5 @@
   "jshintConfig": {
     "esnext": true
   },
-  "dependencies": {
-    "electron-debug": "^0.5.1"
-  }
+  "dependencies": {}
 }
